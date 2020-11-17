@@ -48,8 +48,7 @@ msgid "plugins.generic.citations.crossref"
 msgstr "API de CrossRef"
 
 msgid "plugins.generic.citations.crossref.desc"
-msgstr "To get access to the Crossref API you have to be a<a href=\"https://www.crossref.org/membership/\" target=\"_blank\">member</a> of Crossref. This is associated with <a href=\"https://www.crossref.org/fees/\" target=\"_blank\">fees</a>. If you are a member of Crossref, please enter your credentials here."
-sgstr "Para obtener acceso al API de Crossref usted necesita ser<a href=\"https://www.crossref.org/membership/\" target=\"_blank\">miembro</a> de Crossref. Esto está asociado a <a href=\"https://www.crossref.org/fees/\" target=\"_blank\">pagos</a>. Si usted es miembro de Crossref, por favor introduzca sus credenciales aquí."
+msgstr "Para obtener acceso al API de Crossref usted necesita ser<a href=\"https://www.crossref.org/membership/\" target=\"_blank\">miembro</a> de Crossref. Esto está asociado a <a href=\"https://www.crossref.org/fees/\" target=\"_blank\">pagos</a>. Si usted es miembro de Crossref, por favor introduzca sus credenciales aquí."
 
 msgid "plugins.generic.citations.crossref.name"
 msgstr "Introduzca aquí el usuario de la API de Crossref."
